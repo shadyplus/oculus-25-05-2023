@@ -318,6 +318,8 @@ font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{back
   margin-bottom: 0px;
   font-family: Lato, sans-serif;
   font-size: 20px;
+  line-height: 1.5;
+
 }
 
 .paragraph-3 {
@@ -628,7 +630,8 @@ font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{back
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 20px;
-
+  max-width: 100%;
+  width: 500px;
 }
 
 .heading-7 {
